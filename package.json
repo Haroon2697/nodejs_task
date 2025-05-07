@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-automation-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for GitHub Actions and Jenkins demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests specified\""
+  },
+  "author": "",
+  "license": "MIT"
+} 
